@@ -1,3 +1,4 @@
+// testi Linux 2019-08-15
 void setup() {
   // LED on lähtönä
   pinMode(13,OUTPUT);
